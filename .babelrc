@@ -1,0 +1,6 @@
+srcwebpack.config.js.gitignore.babelrcpackage-lock.jsonpackage.jsonREADME.MD{
+  "presets": [
+    "es2015",
+    "react"
+  ]
+}
